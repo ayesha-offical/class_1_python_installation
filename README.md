@@ -1,1 +1,1 @@
-Downloading Pyhton and more packages for python.
+Downloading Pyhton Conda and more packages for python.
